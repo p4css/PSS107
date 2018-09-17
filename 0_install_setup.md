@@ -2,5 +2,5 @@
 * 觀看以下說明了解要如何使用Anaconda IDE
   * 下載並安裝Anaconda https://docs.anaconda.com/anaconda/install/
   * 如何使用Anaconda Navigator https://docs.anaconda.com/anaconda/navigator/
-* 觀看以下youtube上所分享的視頻來安裝Anaconda（你可以嘗試google "youtube anaconda"來了解ipython notebook的使用）
+* 觀看以下youtube上所分享的視頻來安裝Anaconda（你可以嘗試在youtube上搜尋「安裝anaconda」或「使用ipython notebook」來了解如何開始使用）
   * https://www.youtube.com/watch?v=OUnQqlSIn3k
