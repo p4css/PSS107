@@ -19,6 +19,8 @@
 * [Assignment #1](https://github.com/P4CSS/PSS107/blob/master/Assignments.md#assignment-1) 09/26 23:59 due
 * [Slide: Py01_Starting_Python](https://docs.google.com/presentation/d/1zv7r_5NVGFS7INs6RJdP3F9v526PBar2TNSW9QjuyVk/edit?usp=sharing)
 * You are encouraged to print out P0_counting.ipynb file.
+* Video for the counting problem https://youtu.be/Sw0_lGVfyeM
+* Video for expanded counting problem https://youtu.be/IWwSU033qmU
 
 ## 0913 Course overview
 * [slide](https://docs.google.com/presentation/d/e/2PACX-1vQzvayR4PL4yXdOOU6r0bSrqPkSF6Ls-QQ3ul9dtSTrMwHs7eS7xxWZOnoS3vRAFEP6pfizLBfBbPaJ/pub?start=false&loop=false&delayms=3000)
