@@ -2,6 +2,7 @@
 * 講師：林明仁教授（經濟系）、謝吉隆副教授（新聞所）、黃瀚萱博士後研究員（台大資工所）
 * 助教與諮詢時間：
   * 陳亮丞（經濟系）：b03302212[@]ntu.edu.tw
+  * 陳欣宜（資管四）：b04705024[@]ntu.edu.tw
 * 請假方式：請一律由[學生請假系統](http://advisory.osa.ntu.edu.tw/editor_model/u_editor_v1.asp?id={D1577A6B-F9BE-4448-97E8-78E4D04AF572})請假，如未到課未假者，酌扣學期總成績3分。
 * nbviewer: http://nbviewer.jupyter.org/github/P4CSS/PSS107/tree/master/
 
