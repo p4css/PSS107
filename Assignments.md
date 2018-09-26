@@ -13,3 +13,8 @@ a13250|32.1|信義區|36820000
 3. 請上Datacamp完成[Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)的練習。並用螢幕截圖擷取完成該單元的畫面（會獲得一個簡單的證書）成為.png或.jpg檔，上傳該圖檔即可。
 
 # Assignment #2
+1. 自政府開放資料下載一個csv和一個json檔，分別將其轉為層套的list或dictionary。說明你下載了哪兩個資料集的檔案，列出該資料集的名稱與超鏈結。
+2. 針對每一個資料集：
+  1. 用程式列印出，該資料集包含幾筆資料。
+  2. 用程式列印出，該資料集的主要資料表有哪些「變項」。這邊所指的「變項」為統計的「變項」。例如ubike的資料就有中文站名、英文站名等等。列印出的形式不拘。
+  3. 嘗試用上週與本週所教的「計數counting」運算，統計其中一個變數。
