@@ -17,6 +17,7 @@
 # Calendar
 
 ## 0927 python basic II
+* [Assignment #2](https://github.com/P4CSS/PSS107/blob/master/Assignments.md#assignment-2) No later than 10/03 23:59. Submitting your **.ipynb** file and rendered **.html** file (zip them and upload to ceiba)
 * P1_print_variable
 * P2_list_dictionary
 
