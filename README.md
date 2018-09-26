@@ -16,6 +16,10 @@
 
 # Calendar
 
+## 0927 python basic II
+* P1_print_variable
+* P2_list_dictionary
+
 ## 0920 Python basic
 * [Assignment #1](https://github.com/P4CSS/PSS107/blob/master/Assignments.md#assignment-1) 09/26 23:59 due
 * [Slide: Py01_Starting_Python](https://docs.google.com/presentation/d/1zv7r_5NVGFS7INs6RJdP3F9v526PBar2TNSW9QjuyVk/edit?usp=sharing)
