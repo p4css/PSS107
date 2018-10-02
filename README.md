@@ -26,7 +26,7 @@
 * P04 Read CSV.ipynb: Reading CSV files
 
 ## 0927 python basic II
-* [Assignment #2](https://github.com/P4CSS/PSS107/blob/master/Assignments.md#assignment-2) No later than 10/03 23:59. Submitting your **.ipynb** file and rendered **.html** file (zip them and upload to ceiba)
+* [Assignment #2](https://github.com/P4CSS/PSS107/blob/master/Assignments.md#assignment-2) No later than 10/03 23:59. Submitting your **.ipynb** file and rendered **.html** file (zip them and upload to ceiba). Sample solution: See[Assignments.ipynb](http://nbviewer.jupyter.org/github/P4CSS/PSS107/blob/master/Assignments.ipynb) 
 * P01_print_variable
 * P02_list_dictionary
 
