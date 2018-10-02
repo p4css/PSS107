@@ -16,11 +16,19 @@
 
 # Calendar
 
+## 1018 Pandas
+* Using pandas to import data and transfer to python list and dictionary.
+
+## 1011
+
+## 1004 Dictionary, loop, and condition
+* P02_list_dictionary: (Next) iterating key and value in dictionary by for-loop
+* P04 Read CSV.ipynb: Reading CSV files
+
 ## 0927 python basic II
 * [Assignment #2](https://github.com/P4CSS/PSS107/blob/master/Assignments.md#assignment-2) No later than 10/03 23:59. Submitting your **.ipynb** file and rendered **.html** file (zip them and upload to ceiba)
-* P1_print_variable
-* P2_list_dictionary
-* P4 Read CSV.ipynb
+* P01_print_variable
+* P02_list_dictionary
 
 ## 0920 Python basic
 * [Assignment #1](https://github.com/P4CSS/PSS107/blob/master/Assignments.md#assignment-1) 09/26 23:59 due
