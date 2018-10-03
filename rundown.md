@@ -10,7 +10,7 @@
 
 # Traversing dictionary and list
 * Case study: ubike data
-* Using for-loop to print out data in a dictionary
+* **(NEXT)** Using for-loop to print out data in a dictionary
 
 # Using for and if-else to filter out prominent data.
 
