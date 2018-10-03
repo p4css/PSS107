@@ -9,6 +9,7 @@
 # Announcement
 * HOT! [Open data copnference](https://github.com/P4CSS/p4css.github.io/blob/master/img/competition.jpg) for you (Due: 11/30)
 * [Interesting open data](https://github.com/P4CSS/p4css.github.io/blob/master/data.md)
+* [Rundown](rundown.md)
 
 # Grading
 * 缺席 -3%: 請一律由[學生請假系統](http://advisory.osa.ntu.edu.tw/editor_model/u_editor_v1.asp?id={D1577A6B-F9BE-4448-97E8-78E4D04AF572})請假，如未到課未假者，酌扣學期總成績3分。
