@@ -1,3 +1,8 @@
+# Main note
+1. Team-up with teaching assistants
+2. Explaining file and directory path
+3. Parsing data flow chart with pandas
+
 # The counting problem
 * Case study: 
   * fruit-counting, 
