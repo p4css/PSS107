@@ -31,4 +31,5 @@ print(type(jdata))
     3. 用程式列印出，該資料集的主要資料表有哪些「變項」。這邊所指的「變項」為統計的「變項」。
     4. 嘗試用上週與本週所教的「計數counting」運算，統計其中一個變數。
 2. 針對AQX的資料，依照[行政院環保署的標準](https://taqm.epa.gov.tw/taqm/tw/b0201.aspx)，讀取AQI的值，並在每一個站台的dictionary中，塞入一個新的key為"color"，用if-else判斷AQI所落在區間，指派顏色給每一個站台，而"color"會對應至該AQI應呈現的顏色（Green, Yellow, Orange, Red, Purple, Maroon）。
-3. (option) 將ubike data讀取後
+3. (option)將ubike data讀取後，轉為兩層的list所表示的格式，第0個list為欄位名稱。
+4. (option)上網查詢要如何將這兩個list存為`.csv`檔。
