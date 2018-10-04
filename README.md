@@ -25,8 +25,10 @@
 ## 1011
 
 ## 1004 Dictionary, loop, and condition
-* P02_list_dictionary: (Next) iterating key and value in dictionary by for-loop
-* P04 Read CSV.ipynb: Reading CSV files
+* [P03_list_dictionary.ipynb](P03_list_dictionary.ipynb): (Next) iterating key and value in dictionary by for-loop
+* [P04 Read CSV and JSON](P04 Read CSV and JSON.ipynb): Reading CSV files
+* [P04_for_if_else.ipynb](P04_for_if_else.ipynb)
+* [Assignment #3](https://github.com/P4CSS/PSS107/blob/master/Assignments.md#assignment-3-1004): No later than 10/10 23:59
 
 ## 0927 python basic II
 * [Assignment #2](https://github.com/P4CSS/PSS107/blob/master/Assignments.md#assignment-2) No later than 10/03 23:59. Submitting your **.ipynb** file and rendered **.html** file (zip them and upload to ceiba). 
