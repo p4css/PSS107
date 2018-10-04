@@ -37,5 +37,5 @@ for row in all_list:
     else:
         temp_dict[row[3]] += 1
 ```
-2. (option)將ubike data讀取後，轉為兩層的list所表示的格式，第0個list為欄位名稱。
+2. 將ubike data讀取後，原本是一個三層的dictionary，請把它轉為兩層的list所表示的格式，也就是類似CSV的表示法，第0個list為欄位名稱。當你不太熟悉程式的時候，這可能會花你不少時間，但如果你花超過4小時做這題，那你就去問人；如果花了八小時還完成不了，就去拿人家的解答來看，但務必消化看看。
 3. (option)上網查詢要如何將這兩個list存為`.csv`檔。
