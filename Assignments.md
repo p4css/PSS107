@@ -27,15 +27,9 @@ print(type(jdata))
 # Assignment #3 1004
 1. 自政府開放資料下載一個CSV檔，分別將其轉為二層的list。針對該資料集：
     1. 說明你下載了哪個資料集的檔案，列出該資料集的名稱與超鏈結。
-    2. 用程式列印出，該資料集包含幾筆資料、變項的數量有幾個？
+    2. 用程式列印出，該資料集包含幾筆資料。
     3. 用程式列印出，該資料集的主要資料表有哪些「變項」。這邊所指的「變項」為統計的「變項」。
-    4. 嘗試用上週與本週所教的「計數counting」運算，加總或者計算其中一個變數的出現次數。（你可能需要自己記住你要抓的變項index）。假設我已經把資料轉為a list of list，並指給一個變數`all_list`，那我的程式碼可能會長的像這樣：
-```
-for row in all_list:
-    if row[3] not in temp_dict:
-        temp_dict[row[3]]  = 1
-    else:
-        temp_dict[row[3]] += 1
-```
-2. 將ubike data讀取後，原本是一個三層的dictionary，請把它轉為兩層的list所表示的格式，也就是類似CSV的表示法，第0個list為欄位名稱。當你不太熟悉程式的時候，這可能會花你不少時間，但如果你花超過4小時做這題，那你就去問人；如果花了八小時還完成不了，就去拿人家的解答來看，但務必消化看看。
-3. (option)上網查詢要如何將這兩個list存為`.csv`檔。
+    4. 嘗試用上週與本週所教的「計數counting」運算，統計其中一個變數。
+2. 針對AQX的資料，依照[行政院環保署的標準](https://taqm.epa.gov.tw/taqm/tw/b0201.aspx)，讀取AQI的值，並在每一個站台的dictionary中，塞入一個新的key為"color"，用if-else判斷AQI所落在區間，指派顏色給每一個站台，而"color"會對應至該AQI應呈現的顏色（Green, Yellow, Orange, Red, Purple, Maroon）。
+3. (option)將ubike data讀取後，轉為兩層的list所表示的格式，第0個list為欄位名稱。
+4. (option)上網查詢要如何將這兩個list存為`.csv`檔。
