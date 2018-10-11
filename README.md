@@ -20,9 +20,12 @@
 # Calendar
 
 ## 1018 Pandas
+* [P06_get_web_json.ipynb](P06_get_web_json.ipynb): Get json files from the web
 * Using pandas to import data and transfer to python list and dictionary.
 
 ## 1011
+* 
+* https://github.com/P4CSS/PSS107/blob/master/Assignments.md#assignment-4-1011
 
 ## 1004 Dictionary, loop, and condition
 * [P03_list_dictionary.ipynb](P03_list_dictionary.ipynb): (Next) iterating key and value in dictionary by for-loop
