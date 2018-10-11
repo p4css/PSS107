@@ -33,3 +33,7 @@ print(type(jdata))
 2. 針對AQX的資料，依照[行政院環保署的標準](https://taqm.epa.gov.tw/taqm/tw/b0201.aspx)，讀取AQI的值，並在每一個站台的dictionary中，塞入一個新的key為"color"，用if-else判斷AQI所落在區間，指派顏色給每一個站台，而"color"會對應至該AQI應呈現的顏色（Green, Yellow, Orange, Red, Purple, Maroon）。
 3. (option)將ubike data讀取後，轉為兩層的list所表示的格式，第0個list為欄位名稱。
 4. (option)上網查詢要如何將這兩個list存為`.csv`檔。
+
+# Assignment #4 1011
+* 找到Dcard、104查詢頁面、或Pchome查詢頁面的json檔案網址並觀察其頁面遞增規則，抓取最少10個頁面的資料。並存為.pickle、.json檔各一份。
+* 僅需完成一個網站即可。不用每個都做。
