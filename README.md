@@ -23,6 +23,7 @@
 
 ## 1018 basic crawler
 * [P8_PTTCrawler.ipynb](P8_PTTCrawler.ipynb)
+* [Assignments.md#assignment-5-1018](Assignments.md#assignment-5-1018) No later than 10/24 23:59
 
 
 ## 1011 Get web jsons
