@@ -19,7 +19,11 @@
 
 # Calendar
 
-## 1018 Pandas
+## 1025 Text mining 1
+
+## 1018 basic crawler
+* [P8_PTTCrawler.ipynb](P8_PTTCrawler.ipynb)
+
 
 ## 1011 Get web jsons
 * [P06_get_web_json.ipynb](P06_get_web_json.ipynb): Get json files from the web
