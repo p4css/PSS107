@@ -37,3 +37,10 @@ print(type(jdata))
 # Assignment #4 1011
 * 找到Dcard、104查詢頁面、或Pchome查詢頁面的json檔案網址並觀察其頁面遞增規則，抓取最少10個頁面的資料。並存為.pickle、.json檔各一份。
 * 僅需完成一個網站即可。不用每個都做。
+
+# Assignment #5 1018
+* 爬取ptt某個版約2000篇文章，並儲存為.pickle檔。
+* 利用學期一開始教的計數、`count()`函式或使用pandas把591租屋網的資料或上述ptt所抓取的資料進行簡單的計數（例如解決最近誰最常po文？幾點po文最多？類似的問題。）
+
+with open("data/your_file.json", "r", encoding="UTF-8") as f:或自行
+with open("data/your_file.json", "r", encoding="UTF-8") as f:
