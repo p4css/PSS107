@@ -48,4 +48,11 @@
 * [slide](https://docs.google.com/presentation/d/e/2PACX-1vQzvayR4PL4yXdOOU6r0bSrqPkSF6Ls-QQ3ul9dtSTrMwHs7eS7xxWZOnoS3vRAFEP6pfizLBfBbPaJ/pub?start=false&loop=false&delayms=3000)
 * [Survey](https://goo.gl/forms/Zch5gVBVMnnXoyUR2)
 
+# Images
+
+## Imaginations of data and data processing
+![](img/reading_data.png)
+## Converting between A list of dict, DataFrame, json, and pickle
+![](img/save_load_json.png)
+
 
