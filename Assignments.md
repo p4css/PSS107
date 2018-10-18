@@ -39,8 +39,7 @@ print(type(jdata))
 * 僅需完成一個網站即可。不用每個都做。
 
 # Assignment #5 1018
-* 爬取ptt某個版約2000篇文章，並儲存為.pickle檔。
-* 利用學期一開始教的計數、`count()`函式或使用pandas把591租屋網的資料或上述ptt所抓取的資料進行簡單的計數（例如解決最近誰最常po文？幾點po文最多？類似的問題。）
-
-with open("data/your_file.json", "r", encoding="UTF-8") as f:或自行
-with open("data/your_file.json", "r", encoding="UTF-8") as f:
+(如果第一題做不出來就請做第二題就好，但建議你盡量自我嘗試)
+1. 爬取自由時報的搜尋結果頁面，請自行下關鍵字，確認該關鍵字有至少1000則以上的新聞回應，並儲存為.pickle檔。
+2. 爬取ptt某個版約2000篇文章，並儲存為.pickle檔。
+3. 利用學期一開始教的計數、`count()`函式或使用pandas把591租屋網的資料或上述ptt所抓取的資料進行簡單的計數（例如解決最近誰最常po文？幾點po文最多？類似的問題。）
