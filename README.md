@@ -23,6 +23,7 @@
 
 ## 1018 basic crawler
 * [P8_PTTCrawler.ipynb](P8_PTTCrawler.ipynb)
+* [Slide Inspecting web page](https://docs.google.com/presentation/d/e/2PACX-1vSrIfJQJpr_24wwIjMaTMKiq_xrhZ5n-J26G7xbXC1HIMMKWfMsm6zFWOsX8NxNEN_S46z9PnsASj32/pub?start=false&loop=false&delayms=3000)
 * [Assignments.md#assignment-5-1018](Assignments.md#assignment-5-1018) No later than 10/24 23:59
 
 
