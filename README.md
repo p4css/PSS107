@@ -21,6 +21,7 @@
 # Calendar
 
 ## 1025 Text mining 1
+* **https://github.com/hhhuang/programming_social_scientists**
 
 ## 1018 basic crawler
 * [P8_PTTCrawler.ipynb](P8_PTTCrawler.ipynb)
