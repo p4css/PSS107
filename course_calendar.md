@@ -1,3 +1,4 @@
+```
 * w01 0913 Overview. Setting up development environment (Lin & Hsieh)
 * w02 0920 Counting and Sorting (Hsieh)
 * w03 0927 List and Dictionary (Hsieh)
@@ -17,3 +18,4 @@
 * w17 0103 Invited speech: Multimedia applications (Gliacloud) 
 * w18 0110 Q&A  
 * w19 0117 Final presentation
+```
