@@ -1,15 +1,18 @@
+
 # https://github.com/P4CSS/PSS107
 * 講師：林明仁教授（經濟系）、謝吉隆副教授（新聞所）、黃瀚萱博士後研究員（台大資工所）
 * 助教與諮詢時間：
   * 陳亮丞（經濟系）：b03302212[@]ntu.edu.tw
   * 陳欣宜（資管四）：b04705024[@]ntu.edu.tw
 * 請假方式：請一律由[學生請假系統](http://advisory.osa.ntu.edu.tw/editor_model/u_editor_v1.asp?id={D1577A6B-F9BE-4448-97E8-78E4D04AF572})請假，如未到課未假者，酌扣學期總成績3分。
+* **[Calendar](course_calendar.md)** and [Ceiba](https://ceiba.ntu.edu.tw/modules/index.php?csn=07f96f&default_fun=syllabus&current_lang=chinese)
 * nbviewer: http://nbviewer.jupyter.org/github/P4CSS/PSS107/tree/master/
 
 # Announcement
 * HOT! [Open data copnference](https://github.com/P4CSS/p4css.github.io/blob/master/img/competition.jpg) for you (Due: 11/30)
 * [Interesting open data](https://github.com/P4CSS/p4css.github.io/blob/master/data.md)
 * [Rundown](rundown.md)
+* [A FB page for sharing interesting data science projects to you](https://www.facebook.com/p4css/)
 
 # Grading
 * 缺席 -3%: 請一律由[學生請假系統](http://advisory.osa.ntu.edu.tw/editor_model/u_editor_v1.asp?id={D1577A6B-F9BE-4448-97E8-78E4D04AF572})請假，如未到課未假者，酌扣學期總成績3分。
@@ -19,7 +22,15 @@
 
 # Calendar
 
-## 1018 Pandas
+## 1025 Text mining 1
+* **https://github.com/hhhuang/programming_social_scientists**
+* [slide:text mining 01](text_mining_1.pdf)
+
+## 1018 basic crawler
+* [P8_PTTCrawler.ipynb](P8_PTTCrawler.ipynb)
+* [Slide Inspecting web page](https://docs.google.com/presentation/d/e/2PACX-1vSrIfJQJpr_24wwIjMaTMKiq_xrhZ5n-J26G7xbXC1HIMMKWfMsm6zFWOsX8NxNEN_S46z9PnsASj32/pub?start=false&loop=false&delayms=3000)
+* [Assignments.md#assignment-5-1018](Assignments.md#assignment-5-1018) No later than 10/24 23:59
+
 
 ## 1011 Get web jsons
 * [P06_get_web_json.ipynb](P06_get_web_json.ipynb): Get json files from the web
