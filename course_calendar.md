@@ -10,8 +10,8 @@
 * w09 1108 NLTK and Part of speech tagging (Huang)
 * w10 1115 校慶停課 
 * w11 1122 Word embedding (Huang)
-* w12 1129 Web crawler designs (QSearch or Tornado) 
-* w13 1206 Web crawler designs (QSearch or Tornado) 
+* w12 1129 Invited skill sharings (QSearch, Confirmed) 
+* w13 1206 Web crawler designs
 * w14 1213 Topic modeling (Huang)
 * w15 1220 Text classification (Huang)
 * w16 1227 Invited speech: Opinion Surveillance (QSearch or Tornado) 
