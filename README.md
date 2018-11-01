@@ -24,10 +24,11 @@
 
 ## 1101 Text mining 1
 * **https://github.com/hhhuang/programming_social_scientists**
+* [slide:text mining 02](slides/text_mining_2.pdf)
 
 ## 1025 Text mining 1
 * **https://github.com/hhhuang/programming_social_scientists**
-* [slide:text mining 01](text_mining_1.pdf)
+* [slide:text mining 01](slides/text_mining_1.pdf)
 
 ## 1018 basic crawler
 * [P8_PTTCrawler.ipynb](P8_PTTCrawler.ipynb)
