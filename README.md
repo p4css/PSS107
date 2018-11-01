@@ -22,6 +22,9 @@
 
 # Calendar
 
+## 1101 Text mining 1
+* **https://github.com/hhhuang/programming_social_scientists**
+
 ## 1025 Text mining 1
 * **https://github.com/hhhuang/programming_social_scientists**
 * [slide:text mining 01](text_mining_1.pdf)
