@@ -11,7 +11,7 @@
 * w10 1115 校慶停課 
 * w11 1122 Word embedding (Huang)
 * w12 1129 Invited skill sharings (QSearch, Confirmed) 
-* w13 1206 Web crawler designs
+* w13 1206 Information Retrieval Applications (eLand Dr. Yang, Adjunct Prof. IM, NTU)
 * w14 1213 Topic modeling (Huang)
 * w15 1220 Text classification (Huang)
 * w16 1227 Invited speech: Opinion Surveillance (QSearch or Tornado) 
