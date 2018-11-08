@@ -21,8 +21,17 @@
 
 
 # Calendar
+* **[Calendar](course_calendar.md)** and [Ceiba](https://ceiba.ntu.edu.tw/modules/index.php?csn=07f96f&default_fun=syllabus&current_lang=chinese)
+* 1206 Speech by Prof. Yang, IM, NTU. Topic: Information Surveillance Applications
+* 1129 Advanced crawler instructed by QSearch engineer Mr. Lin
+* 1122 Dr. Huang: Word embeddings
+* 1115 校慶
 
-## 1101 Text mining 1
+## 1108 Text mining 3
+* **https://github.com/hhhuang/programming_social_scientists**
+* [slide:text mining 03](slides/text_mining_3.pdf)
+
+## 1101 Text mining 2
 * **https://github.com/hhhuang/programming_social_scientists**
 * [slide:text mining 02](slides/text_mining_2.pdf)
 
