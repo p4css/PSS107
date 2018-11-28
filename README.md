@@ -25,7 +25,9 @@
 * 1206 Speech by Prof. Yang, IM, NTU. Topic: Information Surveillance Applications
 * 1129 Advanced crawler instructed by QSearch engineer Mr. Lin
 
-
+## 1129 Advanced Crawler by QSearch RD Danny Lin
+* repo: https://github.com/DannyPhoebe/JLH_class_2018
+* slide: https://docs.google.com/presentation/d/1sBnZHXaBjb-bK1j65dxbpr48XWGRG9wSWtiX0ayhgXk/edit#slide=id.p
 
 ## 1122 Text mining 4
 * **https://github.com/hhhuang/programming_social_scientists**
