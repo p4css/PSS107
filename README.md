@@ -22,8 +22,13 @@
 
 # Calendar
 * **[Calendar](course_calendar.md)** and [Ceiba](https://ceiba.ntu.edu.tw/modules/index.php?csn=07f96f&default_fun=syllabus&current_lang=chinese)
-* 1206 Speech by Prof. Yang, IM, NTU. Topic: Information Surveillance Applications
-* 1129 Advanced crawler instructed by QSearch engineer Mr. Lin
+
+## 1211 TF-IDF to gensim
+* **https://github.com/hhhuang/programming_social_scientists**
+* [slide:text mining 05](slides/text_mining_5.pdf)
+
+## 1206 Speech by Prof. Yang, IM, NTU. Topic: Information Surveillance Applications
+* Slides can be downloaded at Ceiba
 
 ## 1129 Advanced Crawler by QSearch RD Danny Lin
 * repo: https://github.com/DannyPhoebe/JLH_class_2018
