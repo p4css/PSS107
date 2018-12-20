@@ -23,7 +23,12 @@
 # Calendar
 * **[Calendar](course_calendar.md)** and [Ceiba](https://ceiba.ntu.edu.tw/modules/index.php?csn=07f96f&default_fun=syllabus&current_lang=chinese)
 
-## 1211 TF-IDF to gensim
+## 1220 Classification
+* **https://github.com/hhhuang/programming_social_scientists**
+* [slide:text mining 06](slides/text_mining_6.pdf)
+
+
+## 1213 TF-IDF to gensim
 * **https://github.com/hhhuang/programming_social_scientists**
 * [slide:text mining 05](slides/text_mining_5.pdf)
 
