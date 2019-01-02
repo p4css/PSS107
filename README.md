@@ -23,6 +23,9 @@
 # Calendar
 * **[Calendar](course_calendar.md)** and [Ceiba](https://ceiba.ntu.edu.tw/modules/index.php?csn=07f96f&default_fun=syllabus&current_lang=chinese)
 
+## 0103 NLP with deep learning
+* https://github.com/aron3312/RNN_LSTM_TEACH
+
 ## 1227 Sentiment analysis in Chinese
 * **https://github.com/hannahchiu/Sentiment_Analysis**
 
